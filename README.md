@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Naara Carvalho 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?naara-carvalho=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naara-carvalho)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <div style="display: inline_block"><br>
