@@ -1,5 +1,5 @@
 ## Oiii! Eu sou a Naara Carvalho 
-<p> Sou formada em Arquitetura mas estou migrando de área, atualmente com foco em Desenvolvimento IOS.</p>
+<p> Sou formada em Arquitetura mas estou migrando de área, atualmente com foco em Desenvolvimento Web.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naara-carvalho&show_icons=true&theme=tokyonight)
 
